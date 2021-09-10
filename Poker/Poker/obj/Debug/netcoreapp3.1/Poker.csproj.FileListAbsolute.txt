@@ -1,0 +1,13 @@
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.exe
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.deps.json
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.json
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.runtimeconfig.dev.json
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.dll
+F:\2021Calidad\t1calidad20212\Poker\Poker\bin\Debug\netcoreapp3.1\Poker.pdb
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csprojAssemblyReference.cache
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfoInputs.cache
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.AssemblyInfo.cs
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.csproj.CoreCompileInputs.cache
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.dll
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.pdb
+F:\2021Calidad\t1calidad20212\Poker\Poker\obj\Debug\netcoreapp3.1\Poker.genruntimeconfig.cache

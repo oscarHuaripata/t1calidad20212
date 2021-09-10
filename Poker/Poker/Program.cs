@@ -6,7 +6,7 @@ namespace Poker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("su carta es");
         }
     }
 }

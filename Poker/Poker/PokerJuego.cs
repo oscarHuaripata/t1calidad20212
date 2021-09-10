@@ -10,7 +10,7 @@ namespace Poker
     {
         public int Id { get; set; }
         public string Nombre { get; set; }
-        public int TotalJugadores { get; set; }
+        public int TotalJugador { get; set; }
     }
 
     public class Lanzamiento
@@ -25,7 +25,7 @@ namespace Poker
         private List<Lanzamiento> Lanzamientos = new List<Lanzamiento>();
         private int turno = 0;
 
-        public object GetNumJugador(int v)
+        public object GetNumeroJugador(int v)
         {
             throw new NotImplementedException();
         }
@@ -35,7 +35,7 @@ namespace Poker
             Lanzamientos.Add(new Lanzamiento { Cartas = v, JugadorId = Jugadores.ElementAt(turno).Id });
         }
 
-        public int[] GeNumJugadores()
+        public int[] GetNumeroJugadores()
         {
             throw new NotImplementedException();
         }
