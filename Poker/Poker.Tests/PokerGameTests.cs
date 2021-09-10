@@ -5,12 +5,12 @@ using System.Text;
 
 namespace Poker.Tests
 {
-    class PokerJuegoTests
+   public class PokerGameTests
     {
 
         [Test]
-        public void Caso1() {
-
+        public void Caso1()
+        {
             var game = new PokerGame();
 
             var jugador = new Jugador { Id = 1, Nombre = "Oscar" };
@@ -22,13 +22,7 @@ namespace Poker.Tests
             game.Lanzar(1); // jugada del jugador 1
             
 
-            var puntajeJugador1 = game.GetPuntajeJugador(1);
-            var puntajeJugador2 = game.GetPuntajeJugador(2);
-
-            Assert.AreEqual(2, puntajeJugador1);
-            Assert.AreEqual(2, puntajeJugador2);
-
-
         }
+
     }
 }
